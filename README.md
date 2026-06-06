@@ -61,6 +61,26 @@ No install step is required.
 - Pressure Defense Video
 - founder viva
 
+## Provided To Solve The Case
+
+- LaunchRoom simulation
+- Incident briefing
+- Decision doctrine
+- Stakeholder pressure feed
+- Live launch metrics
+- Decision prompts with timeout consequences
+- Bounded AI pressure event
+
+## Outcome Artifacts You Get
+
+- LaunchRoom Final Report
+- Incident Simulation Evidence
+- Commander Decision Brief
+- Decision Consequence Trail
+- Pressure Defense Video
+
+Your Day 6 outcome depends on the decisions you make. The simulation records what you protected first, what got worse, what you delayed, and which tradeoffs you accepted.
+
 ## Submission Pack
 
 Students submit:
