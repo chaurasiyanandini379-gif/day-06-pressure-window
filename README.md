@@ -86,9 +86,11 @@ Your Day 6 outcome depends on the decisions you make. The simulation records wha
 Students submit:
 
 1. LaunchRoom Final Report
-2. Commander Decision Brief
-3. 3-minute Pressure Defense Video
-4. Founder viva
+2. [Incident Simulation Evidence Log](./submission-templates/incident-simulation-evidence-log-template.md)
+3. [Commander Decision Brief](./submission-templates/commander-decision-brief-template.md)
+4. [Decision Consequence Trail](./submission-templates/decision-consequence-trail-template.md)
+5. 3-minute Pressure Defense Video
+6. Founder viva
 
 ## Founder Review Standard
 
